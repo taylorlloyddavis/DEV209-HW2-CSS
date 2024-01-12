@@ -1,0 +1,16 @@
+﻿/* Page 1 CSS */
+#page1 {
+    font-family: 'Arial', sans-serif;
+    color: #0000FF; /* Blue */
+}
+
+/* Page 2 CSS */
+#page2 {
+    font-family: 'Courier New', monospace;
+    color: #FF00FF; /* Magenta */
+}
+
+/* Hide the second page initially */
+#page2 {
+    display: none;
+}
